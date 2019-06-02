@@ -1,4 +1,3 @@
-#= require jquery
 #= require es5-shim
 #= require batman
 #= require batman.jquery
