@@ -20,11 +20,11 @@ Gem::Specification.new do |s|
   s.add_dependency('execjs', '~> 2.7.0')
   s.add_dependency('sinatra', '~> 2.0.0')
   s.add_dependency('sinatra-contrib', '~> 2.0.0')
-  s.add_dependency('thin', '~> 1.7.0')
+  s.add_dependency('thin', '~> 1.7.2')
   s.add_dependency('rufus-scheduler', '~> 3.4.2')
   s.add_dependency('thor', '~> 0.19.4')
   s.add_dependency('sprockets', '~> 3.7.1')
-  s.add_dependency('rack', '~> 2.0.0')
+  s.add_dependency('rack', '~> 2.2.2')
 
   s.add_development_dependency('rake', '~> 12.0.0')
   s.add_development_dependency('haml', '~> 5.0.1')
